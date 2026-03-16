@@ -10,7 +10,7 @@
 
 **Client:** HR and Talent Acquisition Team
 
-**Problem:** The HR team needed to understand the data professional job market — who these professionals are, what they earn, how satisfied they are with their careers, how difficult it is to break into the field, and what they prioritize when considering new opportunities.
+**Problem:** The HR team needed to understand the data professional job market, who these professionals are, what they earn, how satisfied they are with their careers, how difficult it is to break into the field, and what they prioritize when considering new opportunities.
 
 **Goal:** Build an interactive dashboard that helps the HR team make better decisions around hiring, compensation benchmarking and talent retention.
 
